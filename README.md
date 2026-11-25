@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="A cat asleep on top of a terminal window"></p>
+
 # NetExec Cheatsheet
 
 A cheatsheet for NetExec, featuring useful commands and modules for different services.
